@@ -1,1 +1,2 @@
 c:\users\p6\documents\visual studio 2012\Projects\BlackHat\BlackHat\bin\Debug\BlackHat.exe.config
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\bin\Debug\BlackHat.exe.config
