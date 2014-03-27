@@ -1,0 +1,10 @@
+c:\users\p6\documents\visual studio 2012\Projects\BlackHat\BlackHat\bin\Debug\BlackHat.exe.config
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\bin\Debug\BlackHat.exe.config
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\bin\Debug\BlackHat.exe
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\bin\Debug\BlackHat.pdb
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.csprojResolveAssemblyReference.cache
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.Form1.resources
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.Properties.Resources.resources
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.csproj.GenerateResource.Cache
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.exe
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.pdb
