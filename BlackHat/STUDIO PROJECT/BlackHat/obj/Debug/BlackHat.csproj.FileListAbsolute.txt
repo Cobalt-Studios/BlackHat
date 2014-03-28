@@ -8,3 +8,6 @@ C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.Prope
 C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.csproj.GenerateResource.Cache
 C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.exe
 C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\obj\Debug\BlackHat.pdb
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\bin\Debug\BlackHat.exe.config
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.exe
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.pdb
