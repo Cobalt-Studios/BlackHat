@@ -54,19 +54,20 @@
             this.button1.ForeColor = System.Drawing.Color.DodgerBlue;
             this.button1.Location = new System.Drawing.Point(0, 86);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(415, 137);
+            this.button1.Size = new System.Drawing.Size(438, 137);
             this.button1.TabIndex = 1;
             this.button1.Text = "Create Character";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
             this.button2.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button2.Font = new System.Drawing.Font("Airstrike Academy", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.button2.Location = new System.Drawing.Point(676, 86);
+            this.button2.Location = new System.Drawing.Point(434, 86);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(424, 137);
+            this.button2.Size = new System.Drawing.Size(666, 137);
             this.button2.TabIndex = 2;
             this.button2.Text = "Load Character";
             this.button2.UseVisualStyleBackColor = false;
