@@ -64,9 +64,9 @@
             this.button3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button3.Font = new System.Drawing.Font("Airstrike Academy", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.button3.Location = new System.Drawing.Point(-10, 410);
+            this.button3.Location = new System.Drawing.Point(-10, 537);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(1118, 233);
+            this.button3.Size = new System.Drawing.Size(1118, 106);
             this.button3.TabIndex = 3;
             this.button3.Text = "Quit Game";
             this.button3.UseVisualStyleBackColor = false;
