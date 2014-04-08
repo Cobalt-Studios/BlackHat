@@ -35,14 +35,27 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
+>>>>>>> de1356eb15973006ccf10bbbcb51f53a670ef785
             this.Title = new System.Windows.Forms.Button();
 =======
             this.button4 = new System.Windows.Forms.Button();
 >>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
+<<<<<<< HEAD
 >>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
 =======
             this.button4 = new System.Windows.Forms.Button();
 >>>>>>> parent of 759db03... Overriding Previous Commits
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
+>>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
+>>>>>>> de1356eb15973006ccf10bbbcb51f53a670ef785
             this.SuspendLayout();
             // 
             // button1
@@ -87,6 +100,12 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
+>>>>>>> de1356eb15973006ccf10bbbcb51f53a670ef785
             // Title
             // 
             this.Title.BackColor = System.Drawing.SystemColors.ControlText;
@@ -99,8 +118,11 @@
             this.Title.Text = "Black Hat";
             this.Title.UseVisualStyleBackColor = false;
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 759db03... Overriding Previous Commits
+=======
+>>>>>>> de1356eb15973006ccf10bbbcb51f53a670ef785
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Black;
@@ -113,12 +135,21 @@
             this.button4.Text = "Black Hat";
             this.button4.UseVisualStyleBackColor = false;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
             // 
 >>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
 =======
             // 
 >>>>>>> parent of 759db03... Overriding Previous Commits
+=======
+>>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
+            // 
+<<<<<<< HEAD
+=======
+>>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
+>>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
+>>>>>>> de1356eb15973006ccf10bbbcb51f53a670ef785
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -129,14 +160,27 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
+>>>>>>> de1356eb15973006ccf10bbbcb51f53a670ef785
             this.Controls.Add(this.Title);
 =======
             this.Controls.Add(this.button4);
 >>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
+<<<<<<< HEAD
 >>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
 =======
             this.Controls.Add(this.button4);
 >>>>>>> parent of 759db03... Overriding Previous Commits
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
+>>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
+>>>>>>> de1356eb15973006ccf10bbbcb51f53a670ef785
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -156,6 +200,7 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
         private System.Windows.Forms.Button Title;
 =======
         private System.Windows.Forms.Button button4;
@@ -164,6 +209,19 @@
 =======
         private System.Windows.Forms.Button button4;
 >>>>>>> parent of 759db03... Overriding Previous Commits
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
+        private System.Windows.Forms.Button Title;
+=======
+        private System.Windows.Forms.Button button4;
+>>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
+<<<<<<< HEAD
+=======
+>>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
+>>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
+>>>>>>> de1356eb15973006ccf10bbbcb51f53a670ef785
 
 
     }
