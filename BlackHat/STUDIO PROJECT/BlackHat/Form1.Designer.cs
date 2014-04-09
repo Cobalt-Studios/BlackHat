@@ -31,20 +31,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
-            this.Title = new System.Windows.Forms.Button();
-=======
-            this.button4 = new System.Windows.Forms.Button();
->>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
-<<<<<<< HEAD
-=======
->>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
             this.SuspendLayout();
             // 
             // button1
@@ -85,12 +71,6 @@
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
             // Title
             // 
             this.Title.BackColor = System.Drawing.SystemColors.ControlText;
@@ -114,32 +94,14 @@
             this.button4.TabIndex = 4;
             this.button4.Text = "Black Hat";
             this.button4.UseVisualStyleBackColor = false;
->>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
-            // 
-<<<<<<< HEAD
-=======
->>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(1099, 631);
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
             this.Controls.Add(this.Title);
-=======
             this.Controls.Add(this.button4);
->>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
-<<<<<<< HEAD
-=======
->>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -155,20 +117,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
-        private System.Windows.Forms.Button Title;
-=======
-        private System.Windows.Forms.Button button4;
->>>>>>> 28e859929d89e22067f3d82a4a3d8538d7c8490b
-<<<<<<< HEAD
-=======
->>>>>>> 1b838f92dbd40d87a89d06b2433374c6595182ec
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
 
 
     }
