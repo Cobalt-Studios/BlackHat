@@ -31,7 +31,10 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+<<<<<<< HEAD
+=======
             this.button4 = new System.Windows.Forms.Button();
+>>>>>>> 18407b12b70cb2b60f2f4e4d8b8f03f4780f9e8d
             this.SuspendLayout();
             // 
             // button1
@@ -78,6 +81,21 @@
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+<<<<<<< HEAD
+            // Title
+            // 
+            this.Title.BackColor = System.Drawing.SystemColors.ControlText;
+            this.Title.Font = new System.Drawing.Font("Airstrike Academy", 71.99999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Title.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.Title.Location = new System.Drawing.Point(-10, -2);
+            this.Title.Name = "Title";
+            this.Title.Size = new System.Drawing.Size(1118, 97);
+            this.Title.TabIndex = 4;
+            this.Title.Text = "Black Hat";
+            this.Title.UseVisualStyleBackColor = false;
+=======
+=======
+>>>>>>> 18407b12b70cb2b60f2f4e4d8b8f03f4780f9e8d
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Black;
@@ -91,13 +109,20 @@
             this.button4.TabIndex = 4;
             this.button4.Text = "Black Hat";
             this.button4.UseVisualStyleBackColor = false;
+<<<<<<< HEAD
+=======
             // 
+>>>>>>> 18407b12b70cb2b60f2f4e4d8b8f03f4780f9e8d
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(1099, 631);
+<<<<<<< HEAD
+            this.Controls.Add(this.Title);
+=======
+>>>>>>> 18407b12b70cb2b60f2f4e4d8b8f03f4780f9e8d
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -114,7 +139,10 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+<<<<<<< HEAD
+=======
         private System.Windows.Forms.Button button4;
+>>>>>>> 18407b12b70cb2b60f2f4e4d8b8f03f4780f9e8d
 
 
     }
