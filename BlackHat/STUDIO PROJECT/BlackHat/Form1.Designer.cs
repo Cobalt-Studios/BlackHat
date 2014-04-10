@@ -40,8 +40,6 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.DodgerBlue;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Airstrike Academy", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.DodgerBlue;
             this.button1.Location = new System.Drawing.Point(-10, 86);
@@ -55,13 +53,11 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.DodgerBlue;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Airstrike Academy", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.button2.Location = new System.Drawing.Point(436, 86);
+            this.button2.Location = new System.Drawing.Point(434, 86);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(672, 137);
+            this.button2.Size = new System.Drawing.Size(674, 137);
             this.button2.TabIndex = 2;
             this.button2.Text = "Load Character";
             this.button2.UseVisualStyleBackColor = false;
@@ -69,8 +65,6 @@
             // button3
             // 
             this.button3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button3.FlatAppearance.BorderColor = System.Drawing.Color.DodgerBlue;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Airstrike Academy", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.DodgerBlue;
             this.button3.Location = new System.Drawing.Point(-1, 512);
@@ -99,8 +93,6 @@
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Black;
-            this.button4.FlatAppearance.BorderColor = System.Drawing.Color.DodgerBlue;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Airstrike Academy", 71.99999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.DodgerBlue;
             this.button4.Location = new System.Drawing.Point(-10, -1);
