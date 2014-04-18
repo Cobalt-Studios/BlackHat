@@ -41,3 +41,4 @@ C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\
 C:\Users\p6\Pictures\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\bin\Debug\BlackHat.exe.config
 C:\Users\p6\Pictures\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.exe
 C:\Users\p6\Pictures\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.pdb
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.LoadingScreen1.resources

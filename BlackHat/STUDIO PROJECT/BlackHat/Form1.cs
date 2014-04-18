@@ -12,6 +12,7 @@ namespace BlackHat
 {
     public partial class Form1 : Form
     {
+        LoadingScreen1 myForm;
         public Form1()
         {
             InitializeComponent();
@@ -31,7 +32,8 @@ namespace BlackHat
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            myForm = new LoadingScreen1();
+            myForm.Show();
         }
     }
 }
