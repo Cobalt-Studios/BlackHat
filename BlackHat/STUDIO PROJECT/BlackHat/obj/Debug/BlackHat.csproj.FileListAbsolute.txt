@@ -29,7 +29,6 @@ C:\Users\Tyler\Documents\GitHub\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\De
 C:\Users\Tyler\Documents\GitHub\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.Form1.resources
 C:\Users\Tyler\Documents\GitHub\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.Properties.Resources.resources
 C:\Users\Tyler\Documents\GitHub\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.csproj.GenerateResource.Cache
-<<<<<<< HEAD
 C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\bin\Debug\BlackHat.exe
 C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\bin\Debug\BlackHat.pdb
 C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.csprojResolveAssemblyReference.cache
@@ -37,7 +36,7 @@ C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\
 C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.Properties.Resources.resources
 C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.csproj.GenerateResource.Cache
 =======
->>>>>>> db57aae865b0994f562e802fa7817eb00a541b14
 C:\Users\p6\Pictures\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\bin\Debug\BlackHat.exe.config
 C:\Users\p6\Pictures\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.exe
 C:\Users\p6\Pictures\BlackHat\BlackHat\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.pdb
+C:\Users\p6\Documents\GitHub\BlackHat\BlackHat\STUDIO PROJECT\BlackHat\obj\Debug\BlackHat.MainMenu.resources
